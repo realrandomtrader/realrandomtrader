@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/realrandomtrader/static/css/main.6d107041.css",
+    "main.js": "/realrandomtrader/static/js/main.cfbb4bf9.js",
+    "static/js/787.b70b9f59.chunk.js": "/realrandomtrader/static/js/787.b70b9f59.chunk.js",
+    "static/media/roboto-all-400-normal.woff": "/realrandomtrader/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/realrandomtrader/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/realrandomtrader/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/realrandomtrader/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/realrandomtrader/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/realrandomtrader/static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/realrandomtrader/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/realrandomtrader/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
+    "index.html": "/realrandomtrader/index.html",
+    "main.6d107041.css.map": "/realrandomtrader/static/css/main.6d107041.css.map",
+    "main.cfbb4bf9.js.map": "/realrandomtrader/static/js/main.cfbb4bf9.js.map",
+    "787.b70b9f59.chunk.js.map": "/realrandomtrader/static/js/787.b70b9f59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d107041.css",
+    "static/js/main.cfbb4bf9.js"
+  ]
+}
